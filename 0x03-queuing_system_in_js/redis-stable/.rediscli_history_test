@@ -1,0 +1,23 @@
+keys one
+keys two
+
+ey
+SET blah "myvalue"
+GET blah
+keys "1722280020"
+keys "1722280021"
+keys one
+keys two
+
+ey
+keys one
+keys two
+
+ey
+
+GET blah
+GET one
+
+GET one
+
+GET blahsuffix
